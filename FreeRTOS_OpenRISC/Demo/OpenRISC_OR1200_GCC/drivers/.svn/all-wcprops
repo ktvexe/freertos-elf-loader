@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/622/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers/uart.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers/Makefile
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/623/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers/gpio.c
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/622/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers/uart.h
+END
+dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers/dma.c
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/623/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers/gpio.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/drivers/dma.h
+END

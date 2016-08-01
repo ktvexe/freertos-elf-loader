@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Source/portable/GCC/OpenRISC
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ocsvn/openrisc/!svn/ver/675/openrisc/trunk/rtos/freertos-6.1.1/Source/portable/GCC/OpenRISC/portmacro.h
+END
+port_spr_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Source/portable/GCC/OpenRISC/port_spr_defs.h
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ocsvn/openrisc/!svn/ver/675/openrisc/trunk/rtos/freertos-6.1.1/Source/portable/GCC/OpenRISC/port.c
+END
+portasm.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ocsvn/openrisc/!svn/ver/675/openrisc/trunk/rtos/freertos-6.1.1/Source/portable/GCC/OpenRISC/portasm.S
+END

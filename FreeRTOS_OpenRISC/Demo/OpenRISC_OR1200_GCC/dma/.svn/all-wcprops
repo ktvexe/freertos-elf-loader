@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/dma
+END
+or32_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/dma/or32_dma.h
+END
+or32_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/dma/or32_dma.c
+END

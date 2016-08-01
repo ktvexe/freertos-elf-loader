@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/interrupts.c
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/support.h
+END
+reset.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/reset.S
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/cache.c
+END
+interrupts.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ocsvn/openrisc/!svn/ver/623/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/interrupts.h
+END
+mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ocsvn/openrisc/!svn/ver/584/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/mc.h
+END
+link.ld
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ocsvn/openrisc/!svn/ver/623/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/link.ld
+END
+spr_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/spr_defs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ocsvn/openrisc/!svn/ver/799/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/Makefile
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ocsvn/openrisc/!svn/ver/800/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/board.h
+END
+support.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ocsvn/openrisc/!svn/ver/621/openrisc/trunk/rtos/freertos-6.1.1/Demo/OpenRISC_SIM_GCC/arch/support.c
+END

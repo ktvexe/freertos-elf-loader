@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ocsvn/openrisc/!svn/ver/575/openrisc/trunk/rtos/freertos-6.1.1/TraceCon
+END
+tracecon_big_endian_untested.exe
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ocsvn/openrisc/!svn/ver/575/openrisc/trunk/rtos/freertos-6.1.1/TraceCon/tracecon_big_endian_untested.exe
+END
+tracecon_little_endian.exe
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ocsvn/openrisc/!svn/ver/575/openrisc/trunk/rtos/freertos-6.1.1/TraceCon/tracecon_little_endian.exe
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ocsvn/openrisc/!svn/ver/575/openrisc/trunk/rtos/freertos-6.1.1/TraceCon/readme.txt
+END
